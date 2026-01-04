@@ -3,14 +3,20 @@
 ## Hola soy Yessika 👋
 
 
-🧑‍🏫 Sobre mí:
+## 🧑‍🏫 Sobre mí
 
-Apasionada por la tecnología, actualmente en transición laboral hacia la Ciencia de Datos. Me encanta aprender, automatizar procesos y convertir datos en soluciones estratégicas.
-- 🔭 Actualmente soy Administradora en una distribuidora, donde aplico análisis de datos para mejorar operaciones.
-- 🌱 Recientemente completé mi certificación como Científica de Datos en TripleTen.
-- 🧠 Manejo herramientas como Python, SQL, pandas, LightGBM, TensorFlow y PyMuPDF.
-- 📊 Me especializo en Machine Learning, NLP, visión artificial y documentación clara de proyectos.
-- 🚀 Busco nuevos retos donde pueda integrar ciencia de datos, estrategia y automatización para generar impacto real.
+Apasionada por la tecnología, actualmente en transición laboral hacia la **Ciencia de Datos**.  
+Me encanta aprender, automatizar procesos y convertir datos en **soluciones estratégicas** que generen impacto real.
+
+- 🔭 Actualmente soy **Business Data Analyst** en una distribuidora, aplicando **análisis de datos** para mejorar operaciones.  
+- 🌱 Recientemente completé mi **certificación como Científica de Datos en TripleTen**.  
+- 🧠 Manejo herramientas como **Python, R, SQL, Pandas, NumPy, Matplotlib, LightGBM, CatBoost, XGBoost, TensorFlow, Keras, PyMuPDF y SAP**.  
+- 📊 Me especializo en **Machine Learning, NLP, Visión Artificial, Análisis Predictivo, Regresión, Clasificación y Documentación clara de proyectos**.  
+- 🚀 Experiencia en **ventas, finanzas, operaciones y gestión administrativa**, integrando **automatización, control de inventarios y optimización de procesos industriales**.  
+- 🌟 Busco nuevos retos donde pueda combinar **ciencia de datos, estrategia empresarial y automatización** para impulsar la innovación y la eficiencia.  
+
+---
+✨ *Mi enfoque combina pensamiento analítico, creatividad y trabajo en equipo para transformar datos en decisiones inteligentes.* ✨
 
 
 ## 🛠️ Lenguajes y herramientas que domino
