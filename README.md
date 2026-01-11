@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Agregar un título" src="https://github.com/user-attachments/assets/6c20a435-97f5-46fd-8b50-d06541672aa5" />
+<img width="1584" height="396" alt="portada limkedin, git hub" src="https://github.com/user-attachments/assets/6f0aa9b0-6e1b-4b2a-ab24-e66e87794dcf" />
+
 
 ## Hola soy Yessika 👋
 
